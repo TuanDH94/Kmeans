@@ -1,0 +1,10 @@
+
+Total point: 500
+Kmeans: 14.1355998516ss with 15 times
+Kmeans plus plus: 20.140583992s with 21 times
+Total point: 1000
+Kmeans: 62.1400380135ss with 33 times
+Kmeans plus plus: 41.0632600784s with 20 times
+Total point: 3000
+Kmeans: 191.038504124ss with 31 times
+Kmeans plus plus: 230.598034859s with 36 times
